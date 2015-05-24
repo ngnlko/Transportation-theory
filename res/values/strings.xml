@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Решение транспортной задачи</string>
+    <string name="about">Об авторе</string>
+    <string name="action_settings">Settings</string>
+    <string name="solution">Решение транспортной задачи</string>
+    <color name="background">#336666</color>
+    <color name="btn">#99CC66</color>
+    
+    <string name = "next">Далее</string>
+    
+    <string name="autor">Александр Осипов \n 2014</string>
+
+    
+    <string name="provider">Количество поставщиков</string>
+    <string name = "consumer">Количество потребителей</string>
+    
+    
+    <string name = "stock">Запасы поставщиков</string>
+    <string name = "need">Запросы потребителей</string>
+    
+    <string name = "result">Опорный план получается вида:</string>
+    
+    
+    <string name = "hint">Вводите данные через запятую</string>
+</resources>
